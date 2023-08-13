@@ -39,3 +39,36 @@
 <p> 
   Important Notice: This dataset offers academics the possibility to find potential systemic problems or biases by helping them understand the patterns and circumstances behind these sad incidents. However, because of its in-depth nature, it also raises significant privacy issues, necessitating the use of cutting-edge data anonymization techniques.
 </p>
+
+### Objectives to Study:
+
+<ol>
+ <li>Data Understanding:</li>
+  <ul>
+    <li>To fully comprehend the dataset in terms of its properties, potential security holes in it, and range of values.</li>
+    <li>To identify quasi-identifiers in the dataset that might be exploited in linkage attacks to reveal personal data about specific people.</li>
+  </ul>
+  <li>Privacy Preservation Using K-anonymization:</li>
+  <ul>
+    <li>
+      To use the k-anonymization principles to prevent the unique identification of every individual data point inside the dataset, protecting user privacy.
+    </li>
+    <li>To investigate multi-dimensional recoding techniques with the goal of achieving privacy protection while maintaining the usefulness of data.</li>
+  </ul>
+  <li>Model Evaluation:</li>
+  <ul>
+    <li>To evaluate several k-anonymization models presented in the research critically, taking into account the benefits of local versus global recoding models.</li>
+    <li>In order to maintain the integrity of the dataset, it is necessary to measure the information loss caused by each anonymization model and to make sure that this loss stays within acceptable bounds.</li>
+  </ul>
+  <li>Data Utility Retention:</li>
+  <ul>
+    <li>To guarantee that the resulting data maintains its analytical usefulness while protecting personal identities.</li>
+    <li>In order to avoid losing important insights into police contacts, it is important to assess how the k-anonymization procedure affects the capacity to spot patterns within the data.</li>
+  </ul>
+</ol>
+
+
+
+
+
+
