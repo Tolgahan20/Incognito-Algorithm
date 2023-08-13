@@ -1,0 +1,13 @@
+age, race, year
+4, 3, 2
+
+age 1
+age 2
+age 3
+age 4
+age 4: race 1
+age 4: race 2
+age 4: race 3
+age 4: race 3: year 2
+age 4: race 2: year 1
+age 3: race 3: year 1

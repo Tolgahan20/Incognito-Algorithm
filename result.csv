@@ -1,0 +1,201 @@
+,id,name,manner_of_death,armed,age,gender,race,state,signs_of_mental_illness,threat_level,flee,date_month,date_day,date_year
+0,1,Tim Elliot,shot,gun,53.0,M,Non-Black,West,True,attack,Not fleeing,1,2,2015~2020
+1,2,Lewis Lee Lembke,shot,gun,47.0,M,Non-Black,West,False,attack,Not fleeing,1,2,2015~2020
+2,3,John Paul Quintero,shot and Tasered,unarmed,23.0,M,Non-Black,Midwest,False,other,Not fleeing,1,3,2015~2020
+3,4,Matthew Hoffman,shot,toy weapon,32.0,M,Non-Black,West,True,attack,Not fleeing,1,4,2015~2020
+4,5,Michael Rodriguez,shot,nail gun,39.0,M,Non-Black,West,False,attack,Not fleeing,1,4,2015~2020
+5,6,Kenneth Joe Brown,shot,gun,18.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,4,2015~2020
+6,7,Kenneth Arnold Buck,shot,gun,22.0,M,Non-Black,West,False,attack,Car,1,5,2015~2020
+7,8,Brock Nichols,shot,gun,35.0,M,Non-Black,Midwest,False,attack,Not fleeing,1,6,2015~2020
+8,9,Autumn Steele,shot,unarmed,34.0,F,Non-Black,Midwest,False,other,Not fleeing,1,6,2015~2020
+9,10,Leslie Sapp III,shot,toy weapon,47.0,M,Black,Northeast,False,attack,Not fleeing,1,6,2015~2020
+10,11,Patrick Wetter,shot and Tasered,knife,25.0,M,Non-Black,West,False,attack,Not fleeing,1,6,2015~2020
+11,12,Ron Sneed,shot,gun,31.0,M,Black,Southwest,False,attack,Not fleeing,1,7,2015~2020
+12,13,Hashim Hanif Ibn Abdul-Rasheed,shot,knife,41.0,M,Black,Midwest,True,other,Not fleeing,1,7,2015~2020
+13,14,Nicholas Ryan Brickman,shot,gun,30.0,M,Non-Black,Midwest,False,attack,Car,1,7,2015~2020
+14,15,Omarr Julian Maximillian Jackson,shot,gun,37.0,M,Black,Southwest,False,attack,Foot,1,7,2015~2020
+15,16,Loren Simpson,shot,,28.0,M,Non-Black,West,False,undetermined,Not fleeing,1,8,2015~2020
+16,17,James Dudley Barker,shot,shovel,42.0,M,Non-Black,West,False,attack,Not fleeing,1,8,2015~2020
+17,18,Artago Damon Howard,shot,unarmed,36.0,M,Black,Southwest,False,attack,Not fleeing,1,8,2015~2020
+18,19,Thomas Hamby,shot,gun,49.0,M,Non-Black,West,False,attack,Not fleeing,1,8,2015~2020
+19,20,Jimmy Foreman,shot,gun,71.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,9,2015~2020
+20,21,Andy Martinez,shot,gun,33.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,9,2015~2020
+21,22,Tommy Smith,shot,gun,39.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,11,2015~2020
+22,23,Brian  Barbosa,shot,gun,23.0,M,Non-Black,West,False,attack,Not fleeing,1,11,2015~2020
+23,24,Salvador Figueroa,shot and Tasered,gun,29.0,M,Non-Black,West,False,attack,Foot,1,11,2015~2020
+24,25,John Edward O'Keefe,shot,gun,34.0,M,Non-Black,West,False,attack,Foot,1,13,2015~2020
+25,26,Richard McClendon,shot,knife,43.0,M,Non-Black,Southwest,True,other,Not fleeing,1,13,2015~2020
+26,27,Marcus Golden,shot,,24.0,M,Black,Midwest,False,attack,Not fleeing,1,14,2015~2020
+27,28,Michael Goebel,shot,,29.0,M,Non-Black,Midwest,False,attack,Not fleeing,1,14,2015~2020
+28,29,Mario Jordan,shot,gun,34.0,M,Black,Southeast,True,attack,Not fleeing,1,14,2015~2020
+29,30,Talbot Schroeder,shot,knife,75.0,M,Non-Black,Northeast,False,attack,Not fleeing,1,14,2015~2020
+30,31,Robert Edwards,shot,gun,68.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,14,2015~2020
+31,32,Jeffrey R. Nielson,shot,knife,34.0,M,Non-Black,West,False,attack,Not fleeing,1,14,2015~2020
+32,33,Donte Sowell,shot,gun,27.0,M,Black,Midwest,False,attack,Foot,1,15,2015~2020
+33,34,Kavonda Earl Payton,shot,gun,39.0,M,Black,West,False,attack,Not fleeing,1,15,2015~2020
+34,35,Quincy Reed Reindl,shot,gun,24.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,15,2015~2020
+35,36,Jose Ceja,shot,knife,36.0,M,Non-Black,West,True,other,Not fleeing,1,15,2015~2020
+36,37,Nathan Massey,shot,gun,33.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,15,2015~2020
+37,38,Scott Hall,shot,gun,41.0,M,Non-Black,Southwest,False,attack,Car,1,16,2015~2020
+38,39,Zaki Shinwary,shot and Tasered,knife,48.0,M,Non-Black,West,False,other,Not fleeing,1,16,2015~2020
+39,40,Terence Walker,shot,gun,21.0,M,Black,Southwest,False,attack,Foot,1,17,2015~2020
+40,41,Pablo Meza,shot,gun,24.0,M,Non-Black,West,False,attack,Not fleeing,1,17,2015~2020
+41,42,Daniel Brumley,shot,knife,27.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,17,2015~2020
+42,43,Jonathan Guillory,shot,gun,32.0,M,Non-Black,West,True,attack,Not fleeing,1,18,2015~2020
+43,44,Carter Castle,shot and Tasered,gun,67.0,M,Non-Black,Southeast,True,attack,Not fleeing,1,18,2015~2020
+44,45,Paul Campbell,shot,knife,49.0,M,Non-Black,Northeast,False,attack,Not fleeing,1,19,2015~2020
+45,46,Dewayne Carr,shot,,42.0,M,Black,West,False,other,Car,1,20,2015~2020
+46,47,Todd Allen Hodge,shot,gun,36.0,M,Non-Black,West,False,attack,Not fleeing,1,21,2015~2020
+47,48,Miguel Angel de Santos-Rodriguez,shot,gun,36.0,M,Non-Black,Southwest,False,attack,Foot,1,21,2015~2020
+48,49,Isaac Holmes,shot,gun,19.0,M,Black,Midwest,False,attack,Not fleeing,1,21,2015~2020
+49,50,Andrew Toto,shot,gun,54.0,M,Non-Black,Northeast,True,attack,Not fleeing,1,21,2015~2020
+50,51,Tiano Meton,shot,toy weapon,25.0,M,Black,Southwest,False,attack,Car,1,22,2015~2020
+51,52,Kristiana Coignard,shot and Tasered,knife,17.0,F,Non-Black,Southwest,True,other,Not fleeing,1,22,2015~2020
+52,53,Demaris Turner,shot,,29.0,M,Black,Southeast,False,other,Not fleeing,1,23,2015~2020
+53,54,Jose Antonio Espinoza Ruiz,shot,knife,56.0,M,Non-Black,Southwest,False,other,Not fleeing,1,23,2015~2020
+54,55,Robert Francis Mesch,shot,gun,61.0,M,Non-Black,Southwest,True,attack,Not fleeing,1,23,2015~2020
+55,56,Daryl Myler,shot,gun,45.0,M,Non-Black,West,False,attack,Not fleeing,1,24,2015~2020
+56,57,Darin Hutchins,shot,knife,26.0,M,Black,Northeast,True,other,Not fleeing,1,24,2015~2020
+57,58,Wendell King,shot,gun,40.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,24,2015~2020
+58,59,Orlando Jude Lopez,shot,gun,26.0,M,Non-Black,West,False,attack,Car,1,25,2015~2020
+59,60,William Campbell,shot,gun,59.0,M,,Northeast,False,attack,Not fleeing,1,25,2015~2020
+60,61,Jessie Hernandez,shot,vehicle,17.0,F,Non-Black,West,False,other,Not fleeing,1,26,2015~2020
+61,62,Raymond Kmetz,shot,gun,68.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,26,2015~2020
+62,63,Joshua Omar Garcia,shot,unarmed,24.0,M,Non-Black,Southwest,False,other,Car,1,26,2015~2020
+63,64,David Garcia,shot,knife,34.0,M,Non-Black,West,True,other,Not fleeing,1,26,2015~2020
+64,65,Tiffany Terry,shot,knife,39.0,F,Non-Black,Midwest,True,attack,Not fleeing,1,27,2015~2020
+65,66,Nicolas Leland Tewa,shot,,26.0,M,Non-Black,West,False,other,Not fleeing,1,27,2015~2020
+66,67,Chris Ingram,shot,gun,29.0,M,Non-Black,West,False,attack,Not fleeing,1,27,2015~2020
+67,68,Jermonte Fletcher,shot,gun,33.0,M,Black,Midwest,False,attack,Not fleeing,1,27,2015~2020
+68,69,Alan Lance Alverson,shot,gun,45.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,28,2015~2020
+69,70,Cody Karasek,shot,gun,26.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,28,2015~2020
+70,71,Matautu Nuu,shot and Tasered,hammer,35.0,M,Non-Black,West,True,attack,Not fleeing,1,28,2015~2020
+71,72,Alan James,shot,gun,31.0,M,Non-Black,Midwest,True,attack,Not fleeing,1,29,2015~2020
+72,73,Ralph Willis,shot,unarmed,42.0,M,Non-Black,Southwest,False,other,Foot,1,29,2015~2020
+73,74,John Barry Marshall,shot,gun,48.0,M,Non-Black,West,False,attack,Foot,1,30,2015~2020
+74,75,Victor Manuel Reyes,shot,gun,31.0,M,Non-Black,Southwest,False,attack,Not fleeing,1,31,2015~2020
+75,76,Edward Donnell Bright,shot and Tasered,knife,54.0,M,Black,Northeast,True,other,Not fleeing,1,31,2015~2020
+76,77,Francis Murphy Rose III,shot,gun,42.0,M,Non-Black,West,True,attack,Not fleeing,2,2,2015~2020
+77,78,Jacob Haglund,shot,gun,17.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,2,2015~2020
+78,79,David Kassick,shot and Tasered,unarmed,59.0,M,Non-Black,Northeast,False,other,Foot,2,2,2015~2020
+79,80,Ledarius D. Williams,shot,gun,23.0,M,Black,Midwest,False,attack,Foot,2,3,2015~2020
+80,81,Yuvette Henderson,shot,gun,38.0,F,Black,West,False,attack,Car,2,3,2015~2020
+81,82,Dewayne Deshawn Ward,shot,knife,29.0,M,Black,West,True,other,Not fleeing,2,3,2015~2020
+82,83,Anthony Purvis,shot,gun,45.0,M,Non-Black,Southeast,True,attack,Not fleeing,2,3,2015~2020
+83,84,Jeremy Lett,shot,unarmed,28.0,M,Black,Southeast,False,attack,Not fleeing,2,4,2015~2020
+84,85,Izzy Colon,shot,gun,37.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,4,2015~2020
+85,86,Salvador Muna,shot,gun,28.0,M,Non-Black,West,False,attack,Car,2,4,2015~2020
+86,87,Joaquin Hernandez,shot,unarmed,28.0,M,Non-Black,West,False,other,Not fleeing,2,4,2015~2020
+87,88,Jimmy Ray Robinson Jr.,shot,gun,51.0,M,Black,Southwest,False,attack,Car,2,4,2015~2020
+88,89,Markell Atkins,shot,knife,36.0,M,Black,Southeast,False,other,Not fleeing,2,4,2015~2020
+89,90,Paul Alfred Eugene Johnson,shot,toy weapon,59.0,M,Non-Black,West,False,other,Car,2,5,2015~2020
+90,91,Herbert Hill,shot,gun,25.0,M,Black,Southwest,False,attack,Not fleeing,2,6,2015~2020
+91,92,John  Sawyer,shot,toy weapon,26.0,M,Non-Black,West,False,attack,Not fleeing,2,7,2015~2020
+92,93,James Allen,shot,gun,74.0,M,Black,Southeast,False,attack,Not fleeing,2,7,2015~2020
+93,94,John Martin Whittaker,shot,gun,33.0,M,Non-Black,Northeast,False,attack,Car,2,8,2015~2020
+94,95,Sawyer Flache,shot,gun,27.0,M,Non-Black,Southwest,False,attack,Not fleeing,2,8,2015~2020
+95,96,Vincent Cordaro,shot,gun,57.0,M,Non-Black,Northeast,True,attack,Not fleeing,2,8,2015~2020
+96,97,Joseph Paffen,shot,gun,46.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,8,2015~2020
+97,98,Larry Hostetter,shot,gun,41.0,M,Non-Black,Southwest,False,attack,Not fleeing,2,8,2015~2020
+98,99,Kenneth Kreyssig,shot,gun,61.0,M,Non-Black,Northeast,True,attack,Not fleeing,2,9,2015~2020
+99,100,Desmond Luster,shot,gun,45.0,M,Black,Southwest,False,attack,Not fleeing,2,9,2015~2020
+100,101,Anthony Bess,shot,gun,49.0,M,Black,Southeast,False,attack,Not fleeing,2,10,2015~2020
+101,102,Brian Fritze,shot,gun,45.0,M,Non-Black,West,True,attack,Car,2,10,2015~2020
+102,103,Antonio Zambrano-Montes,shot and Tasered,unarmed,35.0,M,Non-Black,West,True,other,Foot,2,10,2015~2020
+103,104,Phillip Watkins,shot,knife,23.0,M,Black,West,True,other,Not fleeing,2,11,2015~2020
+104,105,Fletcher Ray Stewart,shot,toy weapon,46.0,M,Non-Black,Southeast,True,attack,Foot,2,11,2015~2020
+105,106,Jonathan Larry Harden,shot,,23.0,M,Non-Black,West,False,attack,Car,2,13,2015~2020
+106,107,Andres Lara-Rodriguez,shot,gun,21.0,M,Non-Black,Midwest,False,attack,Car,2,13,2015~2020
+107,108,Richard Carlin,shot,unarmed,35.0,M,Non-Black,Northeast,False,other,Not fleeing,2,13,2015~2020
+108,109,Matthew D. Belk,shot,gun,27.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,13,2015~2020
+109,110,Daniel Mejia,shot,knife,37.0,M,Non-Black,West,True,other,Not fleeing,2,13,2015~2020
+110,111,Jason C. Hendrix,shot,gun,16.0,M,Non-Black,Northeast,True,attack,Car,2,14,2015~2020
+111,112,Roy Joy Day,shot,gun,51.0,M,Non-Black,Southwest,False,attack,Not fleeing,2,14,2015~2020
+112,113,Howard Brent Means Jr.,shot,gun,34.0,M,Non-Black,Southeast,False,attack,Foot,2,15,2015~2020
+113,114,Bruce Steward,shot,hatchet,34.0,M,Non-Black,West,True,other,Not fleeing,2,15,2015~2020
+114,115,Lavall Hall,shot and Tasered,unarmed,25.0,M,Black,Southeast,True,other,Not fleeing,2,15,2015~2020
+115,116,Lawrence Caldwell,shot,gun,56.0,M,Non-Black,West,False,attack,Not fleeing,2,16,2015~2020
+116,117,Michael K. Casper,shot,gun,26.0,M,Non-Black,West,False,attack,Not fleeing,2,16,2015~2020
+117,118,Cody Evans,shot,toy weapon,24.0,M,Non-Black,West,True,attack,Not fleeing,2,16,2015~2020
+118,119,Betty Sexton,shot,gun,43.0,F,Non-Black,Southeast,False,attack,Not fleeing,2,17,2015~2020
+119,120,Michael Ireland,shot,unarmed,31.0,M,Non-Black,Midwest,False,other,Foot,2,17,2015~2020
+120,121,Matthew Lundy,shot,gun,32.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,17,2015~2020
+121,122,Douglas Sparks,shot,toy weapon,30.0,M,Non-Black,Northeast,False,attack,Foot,2,17,2015~2020
+122,123,Pedro Juan Saldivar,shot,,50.0,M,Non-Black,Southwest,False,other,Not fleeing,2,17,2015~2020
+123,124,Janisha Fonville,shot,knife,20.0,F,Black,Southeast,True,other,Not fleeing,2,18,2015~2020
+124,125,Ruben Villalpando,shot,unarmed,31.0,M,Non-Black,Southwest,False,other,Not fleeing,2,20,2015~2020
+125,126,Stanley Lamar Grant,shot,gun,38.0,M,Black,Southeast,False,attack,Not fleeing,2,20,2015~2020
+126,127,Douglas Harris,shot,gun,77.0,M,Black,Southeast,True,attack,Not fleeing,2,20,2015~2020
+127,128,Alejandro Salazar,shot,gun,,M,Non-Black,Southwest,False,attack,Car,2,20,2015~2020
+128,129,Jason Moncrief Carter,shot,gun,41.0,M,Non-Black,West,False,attack,Not fleeing,2,21,2015~2020
+129,130,Kent Norman,shot,knife,51.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,21,2015~2020
+130,131,Bradford Leonard,shot,gun,50.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,22,2015~2020
+131,132,Robert Kohl,shot,gun,47.0,M,Non-Black,Southwest,True,attack,Not fleeing,2,23,2015~2020
+132,133,Michael Wayne Smashey,shot,knife,37.0,M,Non-Black,Southeast,False,other,Not fleeing,2,23,2015~2020
+133,134,Anthony Giaquinta,shot,gun,41.0,M,Non-Black,Southeast,False,attack,Foot,2,23,2015~2020
+134,135,A'Donte Washington,shot,gun,16.0,M,Black,Southeast,False,attack,Not fleeing,2,23,2015~2020
+135,136,Jerome Nichols,shot and Tasered,knife,42.0,M,Non-Black,Northeast,False,attack,Car,2,23,2015~2020
+136,137,Daniel Elrod,shot and Tasered,unarmed,39.0,M,Non-Black,Midwest,False,other,Not fleeing,2,23,2015~2020
+137,138,Joseph Biegert,shot and Tasered,knife,30.0,M,Non-Black,Midwest,True,attack,Not fleeing,2,24,2015~2020
+138,139,Glenn Lewis,shot,,27.0,M,Black,Southwest,False,other,Car,2,25,2015~2020
+139,140,Francis Spivey,shot,gun,43.0,M,Non-Black,West,True,attack,Not fleeing,2,25,2015~2020
+140,141,David Cuevas,shot,gun,42.0,M,Non-Black,Southeast,False,attack,Foot,2,26,2015~2020
+141,142,Amilcar Perez-Lopez,shot,knife,21.0,M,Non-Black,West,False,other,Not fleeing,2,26,2015~2020
+142,143,Rodney Biggs,shot,unarmed,49.0,M,Non-Black,Southeast,False,other,Not fleeing,2,26,2015~2020
+143,144,Crystal Lee Miley Harry,shot,gun,34.0,F,Non-Black,Southeast,False,attack,Car,2,26,2015~2020
+144,145,Alexander Phillip Long,shot and Tasered,unarmed,31.0,M,Non-Black,Midwest,False,other,Not fleeing,2,26,2015~2020
+145,146,Ernesto Javiar Canepa Diaz,shot,unarmed,27.0,M,Non-Black,West,False,other,Not fleeing,2,27,2015~2020
+146,147,Chazsten Freeman,shot,gun,24.0,M,Non-Black,Southeast,False,attack,Not fleeing,2,28,2015~2020
+147,148,Thomas Allen,shot,unarmed,34.0,M,Black,Midwest,False,other,Car,2,28,2015~2020
+148,149,Jessica Uribe,shot,knife,28.0,F,Non-Black,West,False,other,Not fleeing,2,28,2015~2020
+149,150,Cornelius J. Parker,shot,gun,28.0,M,Black,Midwest,False,attack,Car,2,28,2015~2020
+150,151,Ian Sherrod,shot,gun,40.0,M,Black,Southeast,True,attack,Car,2,28,2015~2020
+151,152,Stephanie Hill,shot,gun,37.0,F,Non-Black,West,False,attack,Car,2,28,2015~2020
+152,153,Deven Guilford,shot and Tasered,unarmed,17.0,M,Non-Black,Midwest,False,attack,Not fleeing,2,28,2015~2020
+153,154,Hung Trieu,shot,gun,35.0,M,Non-Black,Southwest,False,attack,Not fleeing,3,1,2015~2020
+154,155,Donald Lewis Matkins,shot,gun,49.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,1,2015~2020
+155,156,Charly Leundeu Keunang,shot and Tasered,unarmed,43.0,M,Black,West,True,attack,Not fleeing,3,1,2015~2020
+156,157,Shaquille Barrow,shot,gun,20.0,M,Black,Midwest,False,other,Foot,3,2,2015~2020
+157,158,Fednel Rhinvil,shot,gun,25.0,M,Black,Northeast,False,attack,Not fleeing,3,3,2015~2020
+158,159,Matthew Metz,shot,knife,25.0,M,Non-Black,West,False,attack,Not fleeing,3,3,2015~2020
+159,160,Derek Cruice,shot,unarmed,26.0,M,Non-Black,Southeast,False,other,Not fleeing,3,4,2015~2020
+160,161,Carl Lao,shot,gun,28.0,M,Non-Black,West,False,attack,Not fleeing,3,4,2015~2020
+161,162,Tyrone Ryerson Lawrence,shot,knife,45.0,M,Black,Midwest,True,other,Not fleeing,3,5,2015~2020
+162,163,Sergio Alexander Navas,shot,unarmed,36.0,M,Non-Black,West,False,other,Car,3,5,2015~2020
+163,164,Tyson Hubbard,shot,gun,34.0,M,Non-Black,Midwest,False,attack,Not fleeing,3,5,2015~2020
+164,165,Tony Robinson,shot,unarmed,19.0,M,Black,Midwest,False,attack,Foot,3,6,2015~2020
+165,166,Naeschylus Vinzant,shot,unarmed,37.0,M,Black,West,False,other,Foot,3,6,2015~2020
+166,167,Andrew Anthony Williams,shot,,48.0,M,Black,Southeast,False,other,Not fleeing,3,6,2015~2020
+167,168,Adam Reinhart,shot,gun,29.0,M,Non-Black,West,False,attack,Not fleeing,3,7,2015~2020
+168,169,Monique Jenee Deckard,shot,knife,43.0,F,Black,West,True,other,Not fleeing,3,8,2015~2020
+169,170,Aurelio Duarte,shot,gun,40.0,M,Non-Black,Southwest,False,attack,Not fleeing,3,8,2015~2020
+170,171,Michael McKillop,shot,,35.0,M,Non-Black,Northeast,False,attack,Car,3,8,2015~2020
+171,172,Anthony Hill,shot,unarmed,27.0,M,Black,Southeast,True,other,Not fleeing,3,9,2015~2020
+172,173,Lester Brown,shot,gun,58.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,9,2015~2020
+173,174,James Brent Damon,shot,gun,46.0,M,Non-Black,West,False,attack,Not fleeing,3,9,2015~2020
+174,175,Cedrick Lamont Bishop,shot,gun,30.0,M,Black,Southeast,False,attack,Not fleeing,3,9,2015~2020
+175,176,Theodore Johnson,shot,gun,64.0,M,Black,Midwest,False,attack,Not fleeing,3,10,2015~2020
+176,177,Jamie Croom,shot,gun,31.0,M,Black,Southwest,False,attack,Not fleeing,3,10,2015~2020
+177,178,Christopher Mitchell,shot,knife,23.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,10,2015~2020
+178,179,Edixon  Franco,shot,sword,37.0,M,Non-Black,West,True,other,Car,3,10,2015~2020
+179,180,Terry Garnett Jr.,shot,,37.0,M,Black,Northeast,False,other,Not fleeing,3,11,2015~2020
+180,181,James Greenwell,shot,gun,31.0,M,Non-Black,Southeast,True,attack,Not fleeing,3,11,2015~2020
+181,182,Benito Osorio,shot,gun,39.0,M,Non-Black,West,False,attack,Not fleeing,3,11,2015~2020
+182,183,Ryan Dean Burgess,shot,toy weapon,31.0,M,Non-Black,West,True,attack,Not fleeing,3,11,2015~2020
+183,184,Gilbert Fleury,shot,gun,54.0,M,Non-Black,Southeast,False,attack,Not fleeing,3,11,2015~2020
+184,185,William Russell  Smith,shot,gun,53.0,M,Non-Black,Southeast,True,attack,Not fleeing,3,11,2015~2020
+185,186,Aaron Valdez,shot,,25.0,M,Non-Black,West,False,other,Not fleeing,3,11,2015~2020
+186,187,Bobby Gross,shot,unarmed,35.0,M,Black,Northeast,True,other,Not fleeing,3,12,2015~2020
+187,188,James Richard Jimenez,shot,gun,41.0,M,Non-Black,West,False,other,Other,3,13,2015~2020
+188,189,Fred  Liggett,shot,gun,59.0,M,Non-Black,Midwest,False,attack,Not fleeing,3,13,2015~2020
+189,190,Andrew Driver,shot,knife,36.0,M,Non-Black,West,False,attack,Not fleeing,3,13,2015~2020
+190,191,Antonio Perez,shot,unarmed,32.0,M,Non-Black,West,False,other,Foot,3,13,2015~2020
+191,192,Clifton Reintzel,shot,knife,53.0,M,Non-Black,Southeast,False,other,Not fleeing,3,14,2015~2020
+192,193,Aaron Siler,shot,gun,26.0,M,Non-Black,Midwest,False,attack,Car,3,14,2015~2020
+193,194,Richard Castilleja,shot,gun,29.0,M,Non-Black,Southwest,True,attack,Not fleeing,3,14,2015~2020
+194,195,Troy Ray Boyd,shot,machete,27.0,M,Non-Black,Southeast,False,other,Not fleeing,3,15,2015~2020
+195,196,Justin Tolkinen,shot,gun,28.0,M,Non-Black,Midwest,True,attack,Not fleeing,3,16,2015~2020
+196,197,William Dean Poole,shot,gun,52.0,M,Non-Black,Southeast,True,attack,Not fleeing,3,16,2015~2020
+197,198,Andrew Charles Shipley,shot,gun,49.0,M,Non-Black,West,True,attack,Not fleeing,3,17,2015~2020
+198,199,Declan Owen,shot,gun,24.0,M,Non-Black,Southeast,False,attack,Foot,3,17,2015~2020
+199,200,Alice Brown,shot,vehicle,24.0,F,Non-Black,West,True,other,Not fleeing,3,17,2015~2020
